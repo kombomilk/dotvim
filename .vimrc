@@ -6,6 +6,10 @@ set number
 set ruler
 colorscheme torte
 
-filetype plugin indent on
+set smartindent
+set tabstop=2
+set shiftwidth=2
+set expandtab
 
+filetype plugin indent on
 set clipboard=unnamedplus
