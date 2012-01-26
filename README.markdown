@@ -8,3 +8,4 @@ Current plugins:
 4) vim-rails
 5) IndexedSearch
 6) snipmate
+7) vim-markdown

@@ -5,7 +5,8 @@ git_bundles = [
 	"git://github.com/tpope/vim-rails.git",
 	"git://github.com/vim-ruby/vim-ruby.git",
 	"git://github.com/scrooloose/nerdtree.git",
-	"git://github.com/msanders/snipmate.vim.git"
+	"git://github.com/msanders/snipmate.vim.git",
+  "git://github.com/hallison/vim-markdown.git"
 ]
 
 vim_org_scripts = [
