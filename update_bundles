@@ -11,7 +11,7 @@ git_bundles = [
 
 vim_org_scripts = [
 	["IndexedSearch", "7062",  "plugin"],
-	["ZenCoding", "2981", "utility"]
+	["ZenCoding", "2981", "utility"],
 ]
 
 require 'fileutils'

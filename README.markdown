@@ -9,3 +9,11 @@ Current plugins:
 5) IndexedSearch
 6) snipmate
 7) vim-markdown
+8) Conque Shell
+
+Instructions for setup:
+-----------------------
+
+To install Conque Shell open vmb file in vim, then run
+
+:so %

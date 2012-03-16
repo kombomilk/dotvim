@@ -20,3 +20,7 @@ set imsearch=0
 
 filetype plugin indent on
 set clipboard=unnamedplus
+
+set nohlsearch
+
+nmap <F5> :!ruby %<CR>

@@ -1,10 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
-let g:netrw_dirhist_1='/home/sergey/self_study/ruby/unittesting'
-let g:netrw_dirhist_2='/home/sergey/octopress/source/_posts'
-let g:netrw_dirhist_3='/home/sergey/self_study/rails/sample_app/app/views'
-let g:netrw_dirhist_4='/home/sergey/self_study/rails/sample_app/app'
-let g:netrw_dirhist_5='/home/sergey/.gvfs'
-let g:netrw_dirhist_6='/home/sergey/octopress/source'
-let g:netrw_dirhist_7='/home/sergey/octopress/_deploy'
-let g:netrw_dirhist_8='/home/sergey/.ssh'
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/sergey/fun/vermic/lib/vermic'
+let g:netrw_dirhist_2='/dev'
+let g:netrw_dirhist_3='/tmp/vmware-root'
