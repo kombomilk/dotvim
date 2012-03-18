@@ -23,4 +23,6 @@ set clipboard=unnamedplus
 
 set nohlsearch
 
-nmap <F5> :!ruby %<CR>
+" F5 for running bash in the separate tab
+nmap <F5> :ConqueTermSplit bash<CR>
+nmap <silent> <c-n> :NERDTreeToggle<CR>
